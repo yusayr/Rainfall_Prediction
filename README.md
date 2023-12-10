@@ -1,4 +1,4 @@
-# Rainfall_Prediction
+# Binary Binary Rainfall Prediction using ML
 My first Machine Learning Project
 
 The project focuses on predicting the possibility of rainfall. We have made the use of supervised – classification-based Machine Learning algorithms predicting binary outcomes as either “Yes” or “No”. 

@@ -1,5 +1,5 @@
 # Binary Binary Rainfall Prediction using ML
-My first Machine Learning Project
+
 
 The project focuses on predicting the possibility of rainfall. We have made the use of supervised – classification-based Machine Learning algorithms predicting binary outcomes as either “Yes” or “No”. 
 The data set contains several predictors and we have made the use of the following: 'Location', 'MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation', 'Sunshine', 'WindGustDir', 'WindGustSpeed', 'WindDir9am', 'WindDir3pm', 'WindSpeed9am', 'WindSpeed3pm', 'Humidity9am', 'Humidity3pm', 'Pressure9am', 'Pressure3pm', 'Cloud9am', 'Cloud3pm', 'Temp9am', 'Temp3pm', 'RainToday'. 
